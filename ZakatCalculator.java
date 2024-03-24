@@ -283,7 +283,7 @@ public class ZakatCalculator {
                 double zakat = value * 0.025;
 
                 if (value >= nisab) {
-                    resultLabel.setText(nisab + "Your zakat is: " + String.format("%.2f", zakat));
+                    resultLabel.setText("Your zakat is: " + String.format("%.2f", zakat));
                 } else if (value < nisab) {
                     resultLabel.setText("Zakat is not due");
                 } else {
