@@ -11,4 +11,4 @@ In gold case calculator calculates nisab by gold rate.
 
 requirements
 
-For accurate results please enter accrate silver and gold rate at that time.
+For accurate results please enter accurate silver and gold rate at that time.
